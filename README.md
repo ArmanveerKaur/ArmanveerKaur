@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Armanveer Kaur</h1>
 <h3 align="center">Coding enthusiast</h3>
 
-- 🌱 I’m currently learning **Python,Machine Learning**
+- 🌱 I’m currently learning **Machine Learning, Data Science**
 
-- 💬 Ask me about **C,C++,HTML,JavaScript**
+- 💬 Ask me about **C,C++,HTML,JavaScript,Python**
 
 - 📫 How to reach me **armanveermaan11@gmail.com**
 
